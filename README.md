@@ -15,15 +15,9 @@ This is my GitHub page, and here are some interesting information about me:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-### Studying
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
-
-- 🔭 **I’m currently working on** JavaScript coding challanges;
-- 🌱 **I’m currently learning** JavaScript focused on full stack;
-- 👯 **I’m looking to collaborate on** full stack web projects;
-- 🤔 **I’m looking for help with** frameworks like React and Node;
+- 🔭 **I’m currently working on** web development coding projects;
+- 🌱 **I’m currently learning** to code HTML, CSS and JavaScript;
+- 🤔 **I’m looking for help with** learning JavaScript technologies;
 - 💬 **Ask me about** anything that is related to anime and gaming;
-- 📫 **How to reach me:** here are all my socials -> [**linktr.ee/krauzer**](https://linktr.ee/krauzer);
+- 📫 **How to reach me:** here are my socials => [**linktr.ee/krauzer**](https://linktr.ee/krauzer);
 - ⚡ **Fun facts:** I love cats, strong coffee and acidic beverages;
